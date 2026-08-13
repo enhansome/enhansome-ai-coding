@@ -1,0 +1,541 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🐾 Tabby",
+          "description": "An opensource / on-prem alternative to GitHub Copilot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-30T20:38:02Z",
+            "owner": "TabbyML",
+            "repo": "tabby",
+            "stars": 33824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fauxpilot",
+          "description": "Code completion server with CodeGen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-09T08:42:23Z",
+            "owner": "fauxpilot",
+            "repo": "fauxpilot",
+            "stars": 14707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bloop",
+          "description": "bloop is a (AI-powered) fast code search engine written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-12-04T17:39:21Z",
+            "owner": "BloopAI",
+            "repo": "bloop",
+            "stars": 9504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PraisonAI",
+          "description": "Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:40:06Z",
+            "owner": "MervinPraison",
+            "repo": "PraisonAI",
+            "stars": 8838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TurboPilot",
+          "description": "CPU based copilot clone",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-09-30T08:16:59Z",
+            "owner": "ravenscroftj",
+            "repo": "turbopilot",
+            "stars": 3782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twinny",
+          "description": "ollama based AI code completion plugin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-08-07T10:12:07Z",
+            "owner": "twinnydotdev",
+            "repo": "twinny",
+            "stars": 3629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autodoc",
+          "description": "Generate codebase documentation use LLM (OpenAI / Alpaca)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T00:56:38Z",
+            "owner": "context-labs",
+            "repo": "autodoc",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeAlpaca",
+          "description": "LLaMA trained on code instruction following.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-12T17:41:28Z",
+            "owner": "sahil280114",
+            "repo": "codealpaca",
+            "stars": 1514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeTF",
+          "description": "A One-stop Transformer Library for State-of-the-art Code LLM",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-01T17:27:13Z",
+            "owner": "salesforce",
+            "repo": "CodeTF",
+            "stars": 1481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promptr",
+          "description": "CLI tool to operating on your codebase using GPT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-24T15:38:19Z",
+            "owner": "ferrislucas",
+            "repo": "promptr",
+            "stars": 950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "org-ai",
+          "description": "Emacs org-mode with OpenAI APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-01-07T11:11:04Z",
+            "owner": "rksm",
+            "repo": "org-ai",
+            "stars": 821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octopack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-05T19:27:52Z",
+            "owner": "bigcode-project",
+            "repo": "octopack",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MutahunterAI",
+          "description": "Accelerate developer productivity and code security with our open-source AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T15:46:03Z",
+            "owner": "codeintegrity-ai",
+            "repo": "mutahunter",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatIDE",
+          "description": "Extension let you talk to ChatGPT inside VSCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-14T04:44:23Z",
+            "owner": "yagil",
+            "repo": "ChatIDE",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeCapybara",
+          "description": "Open Source LLaMA Model that Follow Instruction-Tuning for Code Generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-26T06:58:29Z",
+            "owner": "FSoft-AI4Code",
+            "repo": "CodeCapybara",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arctic",
+          "description": "A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-23T16:46:40Z",
+            "owner": "arctic-cli",
+            "repo": "interface",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptMate",
+          "description": "VSCode extension embed ChatGPT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-09T15:26:50Z",
+            "owner": "MateusZitelli",
+            "repo": "PromptMate",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "batchai",
+          "description": "A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-02-10T15:01:46Z",
+            "owner": "qiangyt",
+            "repo": "batchai",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vibe Compiler (vibec)",
+          "description": "A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-06T21:53:49Z",
+            "owner": "Strawberry-Computer",
+            "repo": "vibe-compiler",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "code-collator",
+          "description": "Creates a single markdown file that describes your entire codebase to language models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-09T18:34:32Z",
+            "owner": "tawandakembo",
+            "repo": "code-collator",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeGPT.nvim",
+          "description": "ChatGPT in neovim.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Rift",
+          "description": "A opensource LSP leveraging edge language model.",
+          "children": []
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeSearchNet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-01-31T09:25:07Z",
+            "owner": "github",
+            "repo": "CodeSearchNet",
+            "stars": 2442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeContests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-10-03T13:17:45Z",
+            "owner": "google-deepmind",
+            "repo": "code_contests",
+            "stars": 2201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Vault",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-21T18:48:49Z",
+            "owner": "FSoft-AI4Code",
+            "repo": "TheVault",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeLlama",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-08-12T12:49:54Z",
+            "owner": "meta-llama",
+            "repo": "codellama",
+            "stars": 16276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeGeeX 13B",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-13T05:59:38Z",
+            "owner": "zai-org",
+            "repo": "CodeGeeX",
+            "stars": 8808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeGen 350M/2B/6B/16B",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T18:14:11Z",
+            "owner": "salesforce",
+            "repo": "CodeGen",
+            "stars": 5180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeT5 / CodeT5+",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-25T16:27:18Z",
+            "owner": "salesforce",
+            "repo": "CodeT5",
+            "stars": 3098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolyCoder 160M/400M/2.7B",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-07T01:08:30Z",
+            "owner": "VHellendoorn",
+            "repo": "Code-LMs",
+            "stars": 1846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransCoder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-12T18:38:33Z",
+            "owner": "facebookresearch",
+            "repo": "CodeGen",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InCoder 1B/6B",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-09T19:21:51Z",
+            "owner": "dpfried",
+            "repo": "incoder",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeGen2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T18:16:17Z",
+            "owner": "salesforce",
+            "repo": "CodeGen2",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "LLM Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenPaw",
+          "description": "Open-source CLI tool () that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-23T21:21:42Z",
+            "owner": "daxaur",
+            "repo": "openpaw",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copilot",
+          "description": "+ Copilot X",
+          "children": []
+        }
+      ],
+      "title": "Products & Startups"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome AI-Powered Developer Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-11T19:10:35Z",
+            "owner": "jamesmurdza",
+            "repo": "awesome-ai-devtools",
+            "stars": 3911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Are copilots local yet?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-27T14:40:47Z",
+            "owner": "ErikBjare",
+            "repo": "are-copilots-local-yet",
+            "stars": 601
+          }
+        }
+      ],
+      "title": "Peer Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:32:37.557Z",
+    "original_repository": "wsxiaoys/awesome-ai-coding",
+    "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
+    "enhanced_repository": "enhansome/enhansome-ai-coding",
+    "enhanced_repository_description": null,
+    "title": "Awesome-AI-Coding with stars"
+  }
+}
