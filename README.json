@@ -28,7 +28,7 @@
             "last_commit": "2024-04-09T08:42:23Z",
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14707
+            "stars": 14703
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-12-04T17:39:21Z",
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9504
+            "stars": 9503
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:40:06Z",
+            "last_commit": "2026-08-14T17:22:54Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8838
+            "stars": 8855
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-05-01T17:27:13Z",
             "owner": "salesforce",
             "repo": "CodeTF",
-            "stars": 1481
+            "stars": 1480
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-06-23T16:46:40Z",
             "owner": "arctic-cli",
             "repo": "interface",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2024-08-12T12:49:54Z",
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16276
+            "stars": 16274
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-06-02T18:14:11Z",
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5180
+            "stars": 5179
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-06-25T16:27:18Z",
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3098
+            "stars": 3097
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2024-07-07T01:08:30Z",
             "owner": "VHellendoorn",
             "repo": "Code-LMs",
-            "stars": 1846
+            "stars": 1842
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-05-23T21:21:42Z",
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:32:37.557Z",
+    "last_updated": "2026-08-14T17:31:07.578Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
     "enhanced_repository": "enhansome/enhansome-ai-coding",
