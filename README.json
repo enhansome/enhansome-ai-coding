@@ -14,7 +14,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33824
+            "stars": 33826
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-04-09T08:42:23Z",
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14703
+            "stars": 14702
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T17:22:54Z",
+            "last_commit": "2026-08-15T13:13:38Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8855
+            "stars": 8869
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2023-09-30T08:16:59Z",
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3782
+            "stars": 3781
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2024-08-13T05:59:38Z",
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8808
+            "stars": 8807
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-07-11T19:10:35Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3911
+            "stars": 3912
           }
         },
         {
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:31:07.578Z",
+    "last_updated": "2026-08-15T16:52:54.753Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
     "enhanced_repository": "enhansome/enhansome-ai-coding",
