@@ -28,7 +28,7 @@
             "last_commit": "2024-04-09T08:42:23Z",
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14702
+            "stars": 14700
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-12-04T17:39:21Z",
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9503
+            "stars": 9502
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T13:13:38Z",
+            "last_commit": "2026-08-16T16:19:09Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8869
+            "stars": 8889
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2024-08-12T12:49:54Z",
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16274
+            "stars": 16273
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-06-02T18:14:11Z",
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5179
+            "stars": 5180
           }
         },
         {
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:52:54.753Z",
+    "last_updated": "2026-08-16T16:53:38.737Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
     "enhanced_repository": "enhansome/enhansome-ai-coding",
