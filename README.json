@@ -14,7 +14,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33829
+            "stars": 33827
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T10:42:23Z",
+            "last_commit": "2026-08-18T10:39:01Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8906
+            "stars": 8917
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2024-08-12T00:56:38Z",
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2361
+            "stars": 2362
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-06-23T16:46:40Z",
             "owner": "arctic-cli",
             "repo": "interface",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-07-11T19:10:35Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3914
+            "stars": 3916
           }
         },
         {
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:57:07.192Z",
+    "last_updated": "2026-08-18T16:59:30.671Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
     "enhanced_repository": "enhansome/enhansome-ai-coding",
