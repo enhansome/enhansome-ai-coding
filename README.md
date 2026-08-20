@@ -1,23 +1,23 @@
 # Awesome-AI-Coding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,740 | 🐛 102 | 📅 2026-08-18
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding) ⭐ 766 | 🐛 48 | 📅 2026-03-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,150 | 🐛 105 | 📅 2026-08-18
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding) ⭐ 767 | 🐛 49 | 📅 2026-03-02
 
 A list of AI coding topics.
 
-[Open a pull request](https://github.com/wsxiaoys/awesome-ai-coding/pulls) ⭐ 766 | 🐛 48 | 📅 2026-03-02 to add or edit this list.
+[Open a pull request](https://github.com/wsxiaoys/awesome-ai-coding/pulls) ⭐ 767 | 🐛 49 | 📅 2026-03-02 to add or edit this list.
 
 ## Projects
 
-* [🐾 Tabby](https://github.com/TabbyML/tabby) ⭐ 33,828 | 🐛 330 | 🌐 Rust | 📅 2026-06-30: An opensource / on-prem alternative to GitHub Copilot.
-* [Fauxpilot](https://github.com/fauxpilot/fauxpilot) ⭐ 14,700 | 🐛 63 | 🌐 Python | 📅 2024-04-09: Code completion server with *CodeGen*.
+* [🐾 Tabby](https://github.com/TabbyML/tabby) ⭐ 33,831 | 🐛 329 | 🌐 Rust | 📅 2026-06-30: An opensource / on-prem alternative to GitHub Copilot.
+* [Fauxpilot](https://github.com/fauxpilot/fauxpilot) ⭐ 14,699 | 🐛 63 | 🌐 Python | 📅 2024-04-09: Code completion server with *CodeGen*.
 * <s>[Bloop](https://github.com/BloopAI/bloop) ⚠️ Archived: bloop is a (AI-powered) fast code search engine written in Rust.</s>
   * Pivot to AI powered legacy code migration: <https://bloop.ai/>
-* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 8,920 | 🐛 69 | 🌐 Python | 📅 2026-08-19: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
+* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 8,929 | 🐛 75 | 🌐 Python | 📅 2026-08-20: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) ⚠️ Archived: CPU based copilot clone
 * [Twinny](https://github.com/rjmacarthy/twinny) ⚠️ Archived: ollama based AI code completion plugin
-* [Autodoc](https://github.com/context-labs/autodoc) ⭐ 2,362 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12: Generate codebase documentation use LLM (OpenAI / Alpaca)
-* [CodeAlpaca](https://github.com/sahil280114/codealpaca) ⭐ 1,514 | 🐛 17 | 🌐 Python | 📅 2023-05-12: LLaMA trained on code instruction following.
+* [Autodoc](https://github.com/context-labs/autodoc) ⭐ 2,361 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12: Generate codebase documentation use LLM (OpenAI / Alpaca)
+* [CodeAlpaca](https://github.com/sahil280114/codealpaca) ⭐ 1,513 | 🐛 17 | 🌐 Python | 📅 2023-05-12: LLaMA trained on code instruction following.
 * [CodeTF](https://github.com/salesforce/CodeTF) ⚠️ Archived: A One-stop Transformer Library for State-of-the-art Code LLM
 * [promptr](https://github.com/ferrislucas/promptr) ⭐ 950 | 🐛 10 | 🌐 JavaScript | 📅 2026-04-24: CLI tool to operating on your codebase using GPT.
 * [org-ai](https://github.com/rksm/org-ai) ⭐ 821 | 🐛 45 | 🌐 Emacs Lisp | 📅 2026-01-07: Emacs org-mode with OpenAI APIs.
@@ -49,7 +49,7 @@ A list of AI coding topics.
 ## LLM Models
 
 * [CodeLlama](https://github.com/facebookresearch/codellama) ⚠️ Archived
-* [CodeGeeX 13B](https://github.com/THUDM/CodeGeeX) ⭐ 8,807 | 🐛 188 | 🌐 Python | 📅 2024-08-13
+* [CodeGeeX 13B](https://github.com/THUDM/CodeGeeX) ⭐ 8,805 | 🐛 188 | 🌐 Python | 📅 2024-08-13
 * [CodeGen 350M/2B/6B/16B](https://github.com/salesforce/CodeGen) ⭐ 5,178 | 🐛 48 | 🌐 Python | 📅 2026-06-02
 * [CodeT5 / CodeT5+](https://github.com/salesforce/CodeT5) ⚠️ Archived
 * [PolyCoder 160M/400M/2.7B](https://github.com/VHellendoorn/Code-LMs) ⭐ 1,842 | 🐛 14 | 🌐 Python | 📅 2024-07-07
@@ -120,7 +120,7 @@ A list of AI coding topics.
 
 ## Peer Awesome Lists
 
-* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,917 | 🐛 248 | 📅 2026-07-11
+* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,917 | 🐛 251 | 📅 2026-07-11
 * [Are copilots local yet?](https://github.com/ErikBjare/are-copilots-local-yet) ⭐ 601 | 🐛 5 | 🌐 Python | 📅 2025-01-27
 
 ## Star History
@@ -129,4 +129,4 @@ A list of AI coding topics.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
