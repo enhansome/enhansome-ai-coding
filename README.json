@@ -15,7 +15,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33833
+            "stars": 33831
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-04-09T08:42:23Z",
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14695
+            "stars": 14694
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-22T11:56:23Z",
+            "last_commit": "2026-08-23T16:16:20Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8942
+            "stars": 8947
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-08-07T10:12:07Z",
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3629
+            "stars": 3630
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-01-07T11:11:04Z",
             "owner": "rksm",
             "repo": "org-ai",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2022-01-31T09:25:07Z",
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2442
+            "stars": 2443
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2023-10-03T13:17:45Z",
             "owner": "google-deepmind",
             "repo": "code_contests",
-            "stars": 2201
+            "stars": 2202
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2026-07-11T19:10:35Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3919
+            "stars": 3921
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:52:45.827Z",
+    "last_updated": "2026-08-23T16:54:30.655Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_id": 618836883,
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
