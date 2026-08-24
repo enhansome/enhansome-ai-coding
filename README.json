@@ -15,7 +15,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33832
+            "stars": 33833
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-24T14:02:51Z",
+            "last_commit": "2026-08-24T16:28:27Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8951
+            "stars": 8953
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:55.841Z",
+    "last_updated": "2026-08-24T17:07:23.034Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_id": 618836883,
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",

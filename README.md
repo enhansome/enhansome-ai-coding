@@ -1,19 +1,19 @@
 # Awesome-AI-Coding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding) ⭐ 766 | 🐛 49 | 📅 2026-03-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,551 | 🐛 106 | 📅 2026-08-21
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding) ⭐ 765 | 🐛 49 | 📅 2026-03-02
 
 A list of AI coding topics.
 
-[Open a pull request](https://github.com/wsxiaoys/awesome-ai-coding/pulls) ⭐ 766 | 🐛 49 | 📅 2026-03-02 to add or edit this list.
+[Open a pull request](https://github.com/wsxiaoys/awesome-ai-coding/pulls) ⭐ 765 | 🐛 49 | 📅 2026-03-02 to add or edit this list.
 
 ## Projects
 
-* [🐾 Tabby](https://github.com/TabbyML/tabby) ⭐ 33,832 | 🐛 331 | 🌐 Rust | 📅 2026-06-30: An opensource / on-prem alternative to GitHub Copilot.
+* [🐾 Tabby](https://github.com/TabbyML/tabby) ⭐ 33,833 | 🐛 331 | 🌐 Rust | 📅 2026-06-30: An opensource / on-prem alternative to GitHub Copilot.
 * [Fauxpilot](https://github.com/fauxpilot/fauxpilot) ⭐ 14,694 | 🐛 63 | 🌐 Python | 📅 2024-04-09: Code completion server with *CodeGen*.
 * <s>[Bloop](https://github.com/BloopAI/bloop) ⚠️ Archived: bloop is a (AI-powered) fast code search engine written in Rust.</s>
   * Pivot to AI powered legacy code migration: <https://bloop.ai/>
-* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 8,951 | 🐛 70 | 🌐 Python | 📅 2026-08-24: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
+* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 8,953 | 🐛 73 | 🌐 Python | 📅 2026-08-24: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) ⚠️ Archived: CPU based copilot clone
 * [Twinny](https://github.com/rjmacarthy/twinny) ⚠️ Archived: ollama based AI code completion plugin
 * [Autodoc](https://github.com/context-labs/autodoc) ⭐ 2,359 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12: Generate codebase documentation use LLM (OpenAI / Alpaca)
