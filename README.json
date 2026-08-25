@@ -15,7 +15,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33833
+            "stars": 33834
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-04-09T08:42:23Z",
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14694
+            "stars": 14692
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-24T16:28:27Z",
+            "last_commit": "2026-08-24T20:02:09Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8953
+            "stars": 8955
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2024-08-12T12:49:54Z",
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16266
+            "stars": 16265
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2024-08-13T05:59:38Z",
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8806
+            "stars": 8805
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:07:23.034Z",
+    "last_updated": "2026-08-25T06:12:00.227Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_id": 618836883,
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
