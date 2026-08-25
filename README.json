@@ -15,7 +15,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33834
+            "stars": 33835
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-04-09T08:42:23Z",
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14692
+            "stars": 14691
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-24T20:02:09Z",
+            "last_commit": "2026-08-25T16:25:45Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8955
+            "stars": 8957
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-05-01T17:27:13Z",
             "owner": "salesforce",
             "repo": "CodeTF",
-            "stars": 1479
+            "stars": 1480
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-06-23T16:46:40Z",
             "owner": "arctic-cli",
             "repo": "interface",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-06-02T18:14:11Z",
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5178
+            "stars": 5179
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-06-25T16:27:18Z",
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3094
+            "stars": 3093
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:00.227Z",
+    "last_updated": "2026-08-25T17:07:22.120Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_id": 618836883,
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
