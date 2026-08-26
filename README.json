@@ -15,7 +15,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33835
+            "stars": 33839
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-25T16:25:45Z",
+            "last_commit": "2026-08-26T18:17:15Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8957
+            "stars": 8962
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-08-12T00:56:38Z",
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2359
+            "stars": 2360
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2023-04-26T06:58:29Z",
             "owner": "FSoft-AI4Code",
             "repo": "CodeCapybara",
-            "stars": 173
+            "stars": 174
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-06-23T16:46:40Z",
             "owner": "arctic-cli",
             "repo": "interface",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2024-08-13T05:59:38Z",
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8805
+            "stars": 8806
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:07:22.120Z",
+    "last_updated": "2026-08-26T18:18:54.245Z",
     "original_repository": "wsxiaoys/awesome-ai-coding",
     "original_repository_id": 618836883,
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
