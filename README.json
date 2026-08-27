@@ -15,7 +15,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33839
+            "stars": 33836
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-26T18:17:15Z",
+            "last_commit": "2026-08-27T11:17:59Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8962
+            "stars": 8968
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-06-23T16:46:40Z",
             "owner": "arctic-cli",
             "repo": "interface",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2024-08-12T12:49:54Z",
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16265
+            "stars": 16266
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2024-08-13T05:59:38Z",
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8806
+            "stars": 8804
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-05-23T21:21:42Z",
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 163
+            "stars": 164
           }
         }
       ],
@@ -519,7 +519,7 @@
             "last_commit": "2026-07-11T19:10:35Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3920
+            "stars": 3921
           }
         },
         {
@@ -542,9 +542,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:18:54.245Z",
-    "original_repository": "wsxiaoys/awesome-ai-coding",
-    "original_repository_id": 618836883,
+    "last_updated": "2026-08-27T11:18:37.681Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 618836883,
+      "language": null,
+      "last_commit": "2026-03-02T02:12:50Z",
+      "owner": "wsxiaoys",
+      "repo": "awesome-ai-coding",
+      "stars": 766
+    },
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
     "enhanced_repository": "enhansome/enhansome-ai-coding",
     "enhanced_repository_description": null,
