@@ -15,7 +15,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33836
+            "stars": 33839
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-04-09T08:42:23Z",
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14691
+            "stars": 14689
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-27T11:17:59Z",
+            "last_commit": "2026-08-28T00:48:45Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8968
+            "stars": 8969
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-08-07T10:12:07Z",
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3630
+            "stars": 3631
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2022-01-31T09:25:07Z",
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2443
+            "stars": 2444
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2024-08-13T05:59:38Z",
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8804
+            "stars": 8805
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2024-07-07T01:08:30Z",
             "owner": "VHellendoorn",
             "repo": "Code-LMs",
-            "stars": 1842
+            "stars": 1843
           }
         },
         {
@@ -516,10 +516,10 @@
             "archived": false,
             "id": 674164679,
             "language": null,
-            "last_commit": "2026-07-11T19:10:35Z",
+            "last_commit": "2026-08-27T15:25:27Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3921
+            "stars": 3920
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:37.681Z",
+    "last_updated": "2026-08-28T01:04:47.313Z",
     "original_repository_info": {
       "archived": false,
       "id": 618836883,
