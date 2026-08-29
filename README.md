@@ -1,6 +1,6 @@
 # Awesome-AI-Coding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,550 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,856 | 🐛 105 | 📅 2026-08-21
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding) ⭐ 766 | 🐛 50 | 📅 2026-03-02
 
 A list of AI coding topics.
@@ -9,11 +9,11 @@ A list of AI coding topics.
 
 ## Projects
 
-* [🐾 Tabby](https://github.com/TabbyML/tabby) ⭐ 33,839 | 🐛 332 | 🌐 Rust | 📅 2026-06-30: An opensource / on-prem alternative to GitHub Copilot.
+* [🐾 Tabby](https://github.com/TabbyML/tabby) ⭐ 33,840 | 🐛 333 | 🌐 Rust | 📅 2026-06-30: An opensource / on-prem alternative to GitHub Copilot.
 * [Fauxpilot](https://github.com/fauxpilot/fauxpilot) ⭐ 14,689 | 🐛 63 | 🌐 Python | 📅 2024-04-09: Code completion server with *CodeGen*.
 * <s>[Bloop](https://github.com/BloopAI/bloop) ⚠️ Archived: bloop is a (AI-powered) fast code search engine written in Rust.</s>
   * Pivot to AI powered legacy code migration: <https://bloop.ai/>
-* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 8,969 | 🐛 91 | 🌐 Python | 📅 2026-08-28: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
+* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 8,977 | 🐛 56 | 🌐 Python | 📅 2026-08-29: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) ⚠️ Archived: CPU based copilot clone
 * [Twinny](https://github.com/rjmacarthy/twinny) ⚠️ Archived: ollama based AI code completion plugin
 * [Autodoc](https://github.com/context-labs/autodoc) ⭐ 2,360 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12: Generate codebase documentation use LLM (OpenAI / Alpaca)
@@ -49,11 +49,11 @@ A list of AI coding topics.
 ## LLM Models
 
 * [CodeLlama](https://github.com/facebookresearch/codellama) ⚠️ Archived
-* [CodeGeeX 13B](https://github.com/THUDM/CodeGeeX) ⭐ 8,805 | 🐛 188 | 🌐 Python | 📅 2024-08-13
+* [CodeGeeX 13B](https://github.com/THUDM/CodeGeeX) ⭐ 8,804 | 🐛 188 | 🌐 Python | 📅 2024-08-13
 * [CodeGen 350M/2B/6B/16B](https://github.com/salesforce/CodeGen) ⭐ 5,179 | 🐛 48 | 🌐 Python | 📅 2026-06-02
 * [CodeT5 / CodeT5+](https://github.com/salesforce/CodeT5) ⚠️ Archived
 * [PolyCoder 160M/400M/2.7B](https://github.com/VHellendoorn/Code-LMs) ⭐ 1,843 | 🐛 14 | 🌐 Python | 📅 2024-07-07
-* [TransCoder](https://github.com/facebookresearch/CodeGen) ⭐ 778 | 🐛 38 | 🌐 Python | 📅 2026-03-12
+* [TransCoder](https://github.com/facebookresearch/CodeGen) ⭐ 777 | 🐛 38 | 🌐 Python | 📅 2026-03-12
 * [InCoder 1B/6B](https://github.com/dpfried/incoder) ⭐ 314 | 🐛 4 | 🌐 Python | 📅 2023-09-09
 * [CodeGen2](https://github.com/salesforce/CodeGen2) ⭐ 268 | 🐛 9 | 🌐 Python | 📅 2026-06-02
 * [SantaCoder 1.1B](https://huggingface.co/bigcode/santacoder)
@@ -87,7 +87,7 @@ A list of AI coding topics.
 
 ## Products & Startups
 
-* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 164 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
+* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 165 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
 * [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
 * [Codeium](https://www.codeium.com/)
 * [CodeComplete.AI](https://codecomplete.ai/)
@@ -120,7 +120,7 @@ A list of AI coding topics.
 
 ## Peer Awesome Lists
 
-* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,920 | 🐛 266 | 📅 2026-08-27
+* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,922 | 🐛 271 | 📅 2026-08-27
 * [Are copilots local yet?](https://github.com/ErikBjare/are-copilots-local-yet) ⭐ 600 | 🐛 5 | 🌐 Python | 📅 2025-01-27
 
 ## Star History
@@ -129,4 +129,4 @@ A list of AI coding topics.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
