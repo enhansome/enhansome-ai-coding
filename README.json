@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33842,
+            "stars": 33841,
             "topics": [
               "ai",
               "codegen",
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:45:00Z",
-            "open_issues": 56,
+            "last_commit": "2026-08-29T10:51:51Z",
+            "open_issues": 61,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8977,
+            "stars": 8981,
             "topics": [
               "agents",
               "ai",
@@ -134,7 +134,7 @@
             "open_issues": 18,
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3779,
+            "stars": 3778,
             "topics": [
               "code-completion",
               "cpp",
@@ -223,7 +223,7 @@
             "open_issues": 17,
             "owner": "sahil280114",
             "repo": "codealpaca",
-            "stars": 1514,
+            "stars": 1515,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -894,10 +894,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 271,
+            "open_issues": 270,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3922,
+            "stars": 3926,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:17.578Z",
+    "last_updated": "2026-08-29T19:28:51.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
