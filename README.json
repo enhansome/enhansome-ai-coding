@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted AI coding assistant",
+            "homepage": "https://tabbyml.com",
             "id": 614764248,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
+            "open_issues": 333,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33840
+            "stars": 33842,
+            "topics": [
+              "ai",
+              "codegen",
+              "coding-assistant",
+              "coding-language",
+              "developer-experience",
+              "developer-tools",
+              "gen-ai",
+              "ide",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -26,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FauxPilot - an open-source alternative to GitHub Copilot server",
+            "homepage": null,
             "id": 520708737,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-09T08:42:23Z",
+            "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14689
+            "stars": 14689,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "bloop is a fast code search engine written in Rust.",
+            "homepage": "https://bloop.ai",
             "id": 576642715,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-04T17:39:21Z",
+            "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9498
+            "stars": 9498,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -58,12 +83,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+            "homepage": "https://praison.ai/docs",
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-29T00:26:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:45:00Z",
+            "open_issues": 56,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8977
+            "stars": 8977,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agent-framework",
+              "ai-agent-sdk",
+              "ai-agents",
+              "ai-agents-framework",
+              "ai-agents-sdk",
+              "ai-framwork",
+              "aiagent",
+              "aiagentframework",
+              "aiagents",
+              "aiagentsframework",
+              "framework",
+              "hermes",
+              "hermes-agent",
+              "multi-agent",
+              "multi-agent-system",
+              "multi-agents",
+              "multi-ai-agents",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -74,12 +125,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+            "homepage": null,
             "id": 625612711,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-09-30T08:16:59Z",
+            "open_issues": 18,
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3779
+            "stars": 3779,
+            "topics": [
+              "code-completion",
+              "cpp",
+              "language-model",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -90,12 +151,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.",
+            "homepage": "https://twinny.dev",
             "id": 681211986,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-07T10:12:07Z",
+            "open_issues": 48,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3630
+            "stars": 3630,
+            "topics": [
+              "artificial-intelligence",
+              "code-chat",
+              "code-completion",
+              "code-generation",
+              "codellama",
+              "copilot",
+              "free",
+              "llama2",
+              "llamacpp",
+              "ollama",
+              "ollama-api",
+              "ollama-chat",
+              "private",
+              "symmetry",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -106,12 +188,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental toolkit for auto-generating codebase documentation using LLMs",
+            "homepage": null,
             "id": 617683109,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-12T00:56:38Z",
+            "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2360
+            "stars": 2360,
+            "topics": [
+              "cli-tool",
+              "documentation-generator",
+              "language-model",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -122,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 617429416,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-12T17:41:28Z",
+            "open_issues": 17,
             "owner": "sahil280114",
             "repo": "codealpaca",
-            "stars": 1514
+            "stars": 1514,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -138,12 +235,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CodeTF: One-stop Transformer Library for State-of-the-art Code LLM",
+            "homepage": null,
             "id": 635159339,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-01T17:27:13Z",
+            "open_issues": 28,
             "owner": "salesforce",
             "repo": "CodeTF",
-            "stars": 1480
+            "stars": 1480,
+            "topics": [
+              "ai4code",
+              "ai4se",
+              "code-generation",
+              "code-intelligence",
+              "code-learning-datasets",
+              "code-representation-learning",
+              "code-understanding",
+              "human-eval",
+              "multilingual-parsers",
+              "transformers",
+              "tree-sitter"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -154,12 +268,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Promptr is a CLI tool that applies plain language instructions to the filesystem. Instructions can utilize a liquidjs based templating system. Use cases include refactoring, code generation, and experimentation.",
+            "homepage": null,
             "id": 618229896,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-24T15:38:19Z",
+            "open_issues": 10,
             "owner": "ferrislucas",
             "repo": "promptr",
-            "stars": 949
+            "stars": 949,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "cli",
+              "codegen",
+              "coding-assistant",
+              "command-line",
+              "gpt-4",
+              "gpt-4o",
+              "gpt4",
+              "gpt4o",
+              "javascript",
+              "openai",
+              "prompt-engineering",
+              "prompt-toolkit",
+              "prompt-tuning"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -170,12 +305,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.",
+            "homepage": null,
             "id": 610071879,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-07T11:11:04Z",
+            "open_issues": 45,
             "owner": "rksm",
             "repo": "org-ai",
-            "stars": 822
+            "stars": 822,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "emacs",
+              "generative-models",
+              "gpt",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -186,12 +333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐙 OctoPack: Instruction Tuning Code Large Language Models",
+            "homepage": "https://arxiv.org/abs/2308.07124",
             "id": 618866368,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-02-05T19:27:52Z",
+            "open_issues": 14,
             "owner": "bigcode-project",
             "repo": "octopack",
-            "stars": 479
+            "stars": 479,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -202,12 +354,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source, Language Agnostic Mutation Testing",
+            "homepage": null,
             "id": 818429323,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-17T15:46:03Z",
+            "open_issues": 2,
             "owner": "codeintegrity-ai",
             "repo": "mutahunter",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "artificial-intelligence",
+              "automated-testing",
+              "mutation-testing",
+              "software-testing",
+              "static-code-analysis",
+              "test-automation",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -218,12 +383,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=ChatIDE.chatide",
             "id": 623236597,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-14T04:44:23Z",
+            "open_issues": 5,
             "owner": "yagil",
             "repo": "ChatIDE",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "ai",
+              "anthropic",
+              "gpt-4",
+              "openai",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -234,12 +411,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Self-Instruction Tuning Code LLM",
+            "homepage": null,
             "id": 630865521,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-26T06:58:29Z",
+            "open_issues": 2,
             "owner": "FSoft-AI4Code",
             "repo": "CodeCapybara",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "ai4code",
+              "alpaca",
+              "codellm",
+              "instruction-tuning",
+              "llama"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -250,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The multi-provider AI coding interface. Unified limits, sessions, and tools for Codex, Gemini, Anthropic, Copilot and more in your terminal.",
+            "homepage": "https://usearctic.sh",
             "id": 1122871345,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-23T16:46:40Z",
+            "open_issues": 1,
             "owner": "arctic-cli",
             "repo": "interface",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -266,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PromptMate is your AI partner to develop code.",
+            "homepage": null,
             "id": 617203755,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-09T15:26:50Z",
+            "open_issues": 3,
             "owner": "MateusZitelli",
             "repo": "PromptMate",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -282,12 +480,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Supplement of Copilot and Cursor - utilizes AI for batch processing of the entire codebase (对Copilot和Cursor们的补充：用 AI 批量处理项目代码)",
+            "homepage": "https://example.batchai.kailash.cloud:8443",
             "id": 869273264,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-02-10T15:01:46Z",
+            "open_issues": 0,
             "owner": "qiangyt",
             "repo": "batchai",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "ai",
+              "copilot",
+              "cursor"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -298,12 +505,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vibe coding tool with prompts in the repo",
+            "homepage": null,
             "id": 951797630,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-05-06T21:53:49Z",
+            "open_issues": 1,
             "owner": "Strawberry-Computer",
             "repo": "vibe-compiler",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "ai",
+              "vibe-coding",
+              "web4"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -314,12 +530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 834175927,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-09T18:34:32Z",
+            "open_issues": 0,
             "owner": "tawandakembo",
             "repo": "code-collator",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         }
@@ -336,12 +557,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Datasets, tools, and benchmarks for representation learning of code.",
+            "homepage": "https://arxiv.org/abs/1909.09436",
             "id": 173155670,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-01-31T09:25:07Z",
+            "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2444
+            "stars": 2444,
+            "topics": [
+              "bert",
+              "cnn",
+              "data",
+              "data-science",
+              "datasets",
+              "deep-learning",
+              "machine-learning",
+              "machine-learning-on-source-code",
+              "ml",
+              "natural-language-processing",
+              "neural-networks",
+              "nlp",
+              "nlp-machine-learning",
+              "open-data",
+              "programming-language-theory",
+              "python",
+              "representation-learning",
+              "rnn",
+              "self-attention",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -352,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 453950487,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-03T13:17:45Z",
+            "open_issues": 16,
             "owner": "google-deepmind",
             "repo": "code_contests",
-            "stars": 2202
+            "stars": 2202,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -368,12 +620,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP 2023] The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation",
+            "homepage": null,
             "id": 558296892,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-21T18:48:49Z",
+            "open_issues": 0,
             "owner": "FSoft-AI4Code",
             "repo": "TheVault",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "ai4code",
+              "dataset",
+              "multilingual-nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         }
@@ -390,12 +651,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Inference code for CodeLlama models",
+            "homepage": null,
             "id": 682604510,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-12T12:49:54Z",
+            "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16266
+            "stars": 16266,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -406,12 +672,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)",
+            "homepage": "https://codegeex.cn",
             "id": 537827151,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-13T05:59:38Z",
+            "open_issues": 188,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8804
+            "stars": 8804,
+            "topics": [
+              "code-generation",
+              "pretrained-models",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -422,12 +697,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+            "homepage": null,
             "id": 475174123,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T18:14:11Z",
+            "open_issues": 48,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5179
+            "stars": 5179,
+            "topics": [
+              "codex",
+              "generativemodel",
+              "languagemodel",
+              "llm",
+              "programsynthesis",
+              "tpu-acceleration"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -438,12 +725,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Home of CodeT5: Open Code LLMs for Code Understanding and Generation",
+            "homepage": "https://arxiv.org/abs/2305.07922",
             "id": 396609706,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-25T16:27:18Z",
+            "open_issues": 88,
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3093
+            "stars": 3093,
+            "topics": [
+              "code-generation",
+              "code-intelligence",
+              "code-understanding",
+              "language-model",
+              "large-language-models"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -454,12 +752,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guide to using pre-trained large language models of source code",
+            "homepage": null,
             "id": 431946427,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-07T01:08:30Z",
+            "open_issues": 14,
             "owner": "VHellendoorn",
             "repo": "Code-LMs",
-            "stars": 1843
+            "stars": 1843,
+            "topics": [
+              "deep-learning",
+              "gpt-2",
+              "source-code"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -470,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference implementation of code generation projects from Facebook AI Research. General toolkit to apply machine learning to code, from dataset creation to model training and evaluation. Comes with pretrained models.",
+            "homepage": null,
             "id": 387437060,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-12T18:38:33Z",
+            "open_issues": 38,
             "owner": "facebookresearch",
             "repo": "CodeGen",
-            "stars": 777
+            "stars": 777,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -486,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative model for code infilling and synthesis",
+            "homepage": null,
             "id": 480997690,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-09T19:21:51Z",
+            "open_issues": 4,
             "owner": "dpfried",
             "repo": "incoder",
-            "stars": 314
+            "stars": 314,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -502,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeGen2 models for program synthesis",
+            "homepage": null,
             "id": 612382826,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T18:16:17Z",
+            "open_issues": 9,
             "owner": "salesforce",
             "repo": "CodeGen2",
-            "stars": 268
+            "stars": 268,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         }
@@ -524,12 +846,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal Assistant Wizard for Claude Code — npx pawmode",
+            "homepage": "https://www.npmjs.com/package/pawmode",
             "id": 1169354823,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-23T21:21:42Z",
+            "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 165
+            "stars": 164,
+            "topics": [
+              "ai-agent",
+              "anthropic",
+              "automation",
+              "claude",
+              "claude-code",
+              "cli",
+              "macos",
+              "open-source",
+              "personal-assistant",
+              "productivity",
+              "smart-home",
+              "telegram",
+              "typescript",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         }
@@ -546,12 +888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of AI-powered developer tools.",
+            "homepage": null,
             "id": 674164679,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
+            "open_issues": 271,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3922
+            "stars": 3922,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         },
@@ -562,12 +909,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools shaping tomorrow's developer experience, today!",
+            "homepage": null,
             "id": 668219074,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-27T14:40:47Z",
+            "open_issues": 5,
             "owner": "ErikBjare",
             "repo": "are-copilots-local-yet",
-            "stars": 600
+            "stars": 600,
+            "topics": [
+              "copilot",
+              "github-copilot",
+              "llama",
+              "llm",
+              "openai",
+              "starcoder",
+              "wizardcoder"
+            ]
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
         }
@@ -576,15 +936,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:38:00.020Z",
+    "last_updated": "2026-08-29T04:37:17.578Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome AI Coding",
+      "homepage": null,
       "id": 618836883,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-02T02:12:50Z",
+      "open_issues": 50,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
-      "stars": 766
+      "stars": 766,
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "coding",
+        "copilot"
+      ]
     },
     "original_repository_sha": "a45b31b4c890cdf8a7a777f5f8909dfc9151e5e5",
     "enhanced_repository": "enhansome/enhansome-ai-coding",
