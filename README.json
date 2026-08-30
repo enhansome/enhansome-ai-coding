@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33841,
+            "stars": 33843,
             "topics": [
               "ai",
               "codegen",
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T10:51:51Z",
-            "open_issues": 61,
+            "last_commit": "2026-08-30T09:24:13Z",
+            "open_issues": 63,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8981,
+            "stars": 8993,
             "topics": [
               "agents",
               "ai",
@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 164,
+            "stars": 166,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -897,7 +897,7 @@
             "open_issues": 270,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3926,
+            "stars": 3925,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:28:51.724Z",
+    "last_updated": "2026-08-30T19:24:04.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -948,7 +948,7 @@
       "open_issues": 50,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
-      "stars": 766,
+      "stars": 765,
       "topics": [
         "ai",
         "awesome",
