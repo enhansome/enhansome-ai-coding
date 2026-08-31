@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
-            "open_issues": 333,
+            "open_issues": 334,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33843,
+            "stars": 33847,
             "topics": [
               "ai",
               "codegen",
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9498,
+            "stars": 9497,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T09:24:13Z",
-            "open_issues": 63,
+            "last_commit": "2026-08-31T09:04:08Z",
+            "open_issues": 57,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8993,
+            "stars": 9000,
             "topics": [
               "agents",
               "ai",
@@ -197,7 +197,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2360,
+            "stars": 2361,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -314,7 +314,7 @@
             "open_issues": 45,
             "owner": "rksm",
             "repo": "org-ai",
-            "stars": 822,
+            "stars": 821,
             "topics": [
               "ai",
               "chatgpt",
@@ -363,7 +363,7 @@
             "open_issues": 2,
             "owner": "codeintegrity-ai",
             "repo": "mutahunter",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "artificial-intelligence",
               "automated-testing",
@@ -706,7 +706,7 @@
             "open_issues": 48,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5179,
+            "stars": 5180,
             "topics": [
               "codex",
               "generativemodel",
@@ -734,7 +734,7 @@
             "open_issues": 88,
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3093,
+            "stars": 3094,
             "topics": [
               "code-generation",
               "code-intelligence",
@@ -894,10 +894,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 270,
+            "open_issues": 273,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3925,
+            "stars": 3927,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:24:04.400Z",
+    "last_updated": "2026-08-31T21:35:16.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
