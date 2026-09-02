@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
-            "open_issues": 334,
+            "open_issues": 335,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33849,
+            "stars": 33857,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14687,
+            "stars": 14686,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9497,
+            "stars": 9496,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-31T09:04:08Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-02T19:15:40Z",
+            "open_issues": 54,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9001,
+            "stars": 9003,
             "topics": [
               "agents",
               "ai",
@@ -134,7 +134,7 @@
             "open_issues": 18,
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3778,
+            "stars": 3777,
             "topics": [
               "code-completion",
               "cpp",
@@ -150,17 +150,17 @@
           "description": "ollama based AI code completion plugin",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "description": "The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.",
             "homepage": "https://twinny.dev",
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2025-08-07T10:12:07Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-02T11:34:31Z",
+            "open_issues": 46,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3631,
+            "stars": 3632,
             "topics": [
               "artificial-intelligence",
               "code-chat",
@@ -447,7 +447,7 @@
             "open_issues": 1,
             "owner": "arctic-cli",
             "repo": "interface",
-            "stars": 147,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -681,7 +681,7 @@
             "open_issues": 188,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8804,
+            "stars": 8802,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -706,7 +706,7 @@
             "open_issues": 48,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5179,
+            "stars": 5178,
             "topics": [
               "codex",
               "generativemodel",
@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -894,10 +894,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 274,
+            "open_issues": 277,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3927,
+            "stars": 3925,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:30:10.299Z",
+    "last_updated": "2026-09-02T19:27:50.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
