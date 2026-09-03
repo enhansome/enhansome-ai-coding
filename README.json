@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
-            "open_issues": 335,
+            "open_issues": 337,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33857,
+            "stars": 33858,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14686,
+            "stars": 14685,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T19:15:40Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-03T19:19:36Z",
+            "open_issues": 71,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9003,
+            "stars": 9008,
             "topics": [
               "agents",
               "ai",
@@ -160,7 +160,7 @@
             "open_issues": 46,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3632,
+            "stars": 3633,
             "topics": [
               "artificial-intelligence",
               "code-chat",
@@ -660,7 +660,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16265,
+            "stars": 16266,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -894,10 +894,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 277,
+            "open_issues": 280,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3925,
+            "stars": 3927,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:27:50.848Z",
+    "last_updated": "2026-09-03T19:23:48.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
