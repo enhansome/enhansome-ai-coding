@@ -19,7 +19,7 @@
             "open_issues": 335,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33873,
+            "stars": 33875,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14681,
+            "stars": 14682,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T07:26:01Z",
-            "open_issues": 94,
+            "last_commit": "2026-09-10T19:10:04Z",
+            "open_issues": 99,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9037,
+            "stars": 9044,
             "topics": [
               "agents",
               "ai",
@@ -156,11 +156,11 @@
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T19:03:40Z",
+            "last_commit": "2026-09-10T09:04:35Z",
             "open_issues": 47,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3635,
+            "stars": 3636,
             "topics": [
               "artificial-intelligence",
               "code-chat",
@@ -197,7 +197,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2367,
+            "stars": 2368,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -277,7 +277,7 @@
             "open_issues": 10,
             "owner": "ferrislucas",
             "repo": "promptr",
-            "stars": 950,
+            "stars": 951,
             "topics": [
               "ai",
               "chatgpt",
@@ -392,7 +392,7 @@
             "open_issues": 5,
             "owner": "yagil",
             "repo": "ChatIDE",
-            "stars": 222,
+            "stars": 221,
             "topics": [
               "ai",
               "anthropic",
@@ -566,7 +566,7 @@
             "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2445,
+            "stars": 2446,
             "topics": [
               "bert",
               "cnn",
@@ -681,7 +681,7 @@
             "open_issues": 187,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8801,
+            "stars": 8803,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -894,10 +894,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 289,
+            "open_issues": 291,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3934,
+            "stars": 3937,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:24:55.735Z",
+    "last_updated": "2026-09-10T19:13:00.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
