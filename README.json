@@ -19,7 +19,7 @@
             "open_issues": 336,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33872,
+            "stars": 33880,
             "topics": [
               "ai",
               "codegen",
@@ -89,10 +89,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-11T17:50:25Z",
-            "open_issues": 85,
+            "open_issues": 87,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9047,
+            "stars": 9050,
             "topics": [
               "agents",
               "ai",
@@ -156,7 +156,7 @@
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T19:37:01Z",
+            "last_commit": "2026-09-13T18:15:46Z",
             "open_issues": 48,
             "owner": "twinnydotdev",
             "repo": "twinny",
@@ -660,7 +660,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16259,
+            "stars": 16258,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -894,10 +894,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 290,
+            "open_issues": 291,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3936,
+            "stars": 3937,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:38:43.180Z",
+    "last_updated": "2026-09-13T18:54:47.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -945,7 +945,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-02T02:12:50Z",
-      "open_issues": 54,
+      "open_issues": 55,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
       "stars": 766,
