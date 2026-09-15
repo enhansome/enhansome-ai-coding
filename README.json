@@ -19,7 +19,7 @@
             "open_issues": 336,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33881,
+            "stars": 33883,
             "topics": [
               "ai",
               "codegen",
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T20:11:54Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-15T13:41:46Z",
+            "open_issues": 106,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9054,
+            "stars": 9057,
             "topics": [
               "agents",
               "ai",
@@ -160,7 +160,7 @@
             "open_issues": 48,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3639,
+            "stars": 3644,
             "topics": [
               "artificial-intelligence",
               "code-chat",
@@ -661,7 +661,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16258,
+            "stars": 16256,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -679,7 +679,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-08-13T05:59:38Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "zai-org",
             "repo": "CodeGeeX",
             "stars": 8807,
@@ -707,7 +707,7 @@
             "open_issues": 49,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5179,
+            "stars": 5180,
             "topics": [
               "codex",
               "generativemodel",
@@ -856,7 +856,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 168,
+            "stars": 167,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -895,10 +895,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 296,
+            "open_issues": 298,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3938,
+            "stars": 3939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:26:47.193Z",
+    "last_updated": "2026-09-15T19:47:38.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
