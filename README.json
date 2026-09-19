@@ -19,7 +19,7 @@
             "open_issues": 338,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33880,
+            "stars": 33881,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14681,
+            "stars": 14682,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9494,
+            "stars": 9493,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -89,10 +89,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T09:43:26Z",
-            "open_issues": 81,
+            "open_issues": 88,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9069,
+            "stars": 9079,
             "topics": [
               "agents",
               "ai",
@@ -198,7 +198,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2370,
+            "stars": 2371,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -278,7 +278,7 @@
             "open_issues": 10,
             "owner": "ferrislucas",
             "repo": "promptr",
-            "stars": 951,
+            "stars": 950,
             "topics": [
               "ai",
               "chatgpt",
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "qiangyt",
             "repo": "batchai",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "ai",
               "copilot",
@@ -898,7 +898,7 @@
             "open_issues": 300,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3945,
+            "stars": 3946,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:08:14.098Z",
+    "last_updated": "2026-09-19T18:48:03.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
