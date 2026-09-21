@@ -19,7 +19,7 @@
             "open_issues": 338,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33881,
+            "stars": 33886,
             "topics": [
               "ai",
               "codegen",
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9493,
+            "stars": 9492,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -89,10 +89,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T09:43:26Z",
-            "open_issues": 94,
+            "open_issues": 114,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9080,
+            "stars": 9081,
             "topics": [
               "agents",
               "ai",
@@ -156,11 +156,11 @@
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T12:05:30Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-21T13:07:24Z",
+            "open_issues": 48,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3650,
+            "stars": 3651,
             "topics": [
               "artificial-intelligence",
               "code-chat",
@@ -198,7 +198,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2372,
+            "stars": 2374,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -315,7 +315,7 @@
             "open_issues": 46,
             "owner": "rksm",
             "repo": "org-ai",
-            "stars": 820,
+            "stars": 821,
             "topics": [
               "ai",
               "chatgpt",
@@ -567,7 +567,7 @@
             "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2446,
+            "stars": 2445,
             "topics": [
               "bert",
               "cnn",
@@ -661,7 +661,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16252,
+            "stars": 16251,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -682,7 +682,7 @@
             "open_issues": 189,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8807,
+            "stars": 8806,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -895,7 +895,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 306,
+            "open_issues": 309,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
             "stars": 3947,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:00:04.576Z",
+    "last_updated": "2026-09-21T20:30:45.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
