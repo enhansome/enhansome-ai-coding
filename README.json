@@ -19,7 +19,7 @@
             "open_issues": 338,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33886,
+            "stars": 33890,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14683,
+            "stars": 14681,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9492,
+            "stars": 9491,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T09:43:26Z",
-            "open_issues": 114,
+            "last_commit": "2026-09-22T17:19:19Z",
+            "open_issues": 129,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9081,
+            "stars": 9082,
             "topics": [
               "agents",
               "ai",
@@ -134,7 +134,7 @@
             "open_issues": 18,
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3773,
+            "stars": 3772,
             "topics": [
               "code-completion",
               "cpp",
@@ -151,32 +151,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.",
+            "description": "Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
             "homepage": "https://twinny.dev",
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T13:07:24Z",
+            "last_commit": "2026-09-22T09:27:48Z",
             "open_issues": 48,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3651,
+            "stars": 3650,
             "topics": [
+              "ai-coding-assistant",
               "artificial-intelligence",
               "code-chat",
               "code-completion",
               "code-generation",
-              "codellama",
-              "copilot",
+              "code-review",
+              "code-review-assistant",
+              "developer-tools",
               "embeddings",
-              "free",
-              "llama2",
               "llamacpp",
+              "llm",
+              "local-ai",
               "ollama",
-              "ollama-api",
-              "ollama-chat",
-              "private",
               "private-ai",
+              "self-hosted",
+              "self-hosted-ai",
+              "self-hosted-llm",
               "vscode-extension"
             ]
           },
@@ -224,7 +226,7 @@
             "open_issues": 17,
             "owner": "sahil280114",
             "repo": "codealpaca",
-            "stars": 1515,
+            "stars": 1514,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -661,7 +663,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16251,
+            "stars": 16250,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -682,7 +684,7 @@
             "open_issues": 189,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8806,
+            "stars": 8807,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -856,7 +858,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -895,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 309,
+            "open_issues": 311,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3947,
+            "stars": 3948,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -937,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:30:45.595Z",
+    "last_updated": "2026-09-22T19:50:34.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -946,7 +948,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-02T02:12:50Z",
-      "open_issues": 56,
+      "open_issues": 55,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
       "stars": 766,
