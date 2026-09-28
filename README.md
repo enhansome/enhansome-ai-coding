@@ -1,6 +1,6 @@
 # Awesome-AI-Coding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,401 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,972 | 🐛 106 | 📅 2026-09-02
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding) ⭐ 766 | 🐛 54 | 📅 2026-03-02
 
 A list of AI coding topics.
@@ -13,11 +13,11 @@ A list of AI coding topics.
 * [Fauxpilot](https://github.com/fauxpilot/fauxpilot) ⭐ 14,682 | 🐛 63 | 🌐 Python | 📅 2024-04-09: Code completion server with *CodeGen*.
 * <s>[Bloop](https://github.com/BloopAI/bloop) ⚠️ Archived: bloop is a (AI-powered) fast code search engine written in Rust.</s>
   * Pivot to AI powered legacy code migration: <https://bloop.ai/>
-* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 9,099 | 🐛 175 | 🌐 Python | 📅 2026-09-27: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
+* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 9,104 | 🐛 193 | 🌐 Python | 📅 2026-09-28: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) ⚠️ Archived: CPU based copilot clone
-* [Twinny](https://github.com/rjmacarthy/twinny) ⭐ 3,653 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-25: ollama based AI code completion plugin
+* [Twinny](https://github.com/rjmacarthy/twinny) ⭐ 3,657 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-28: ollama based AI code completion plugin
 * [Autodoc](https://github.com/context-labs/autodoc) ⭐ 2,374 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12: Generate codebase documentation use LLM (OpenAI / Alpaca)
-* [CodeAlpaca](https://github.com/sahil280114/codealpaca) ⭐ 1,514 | 🐛 17 | 🌐 Python | 📅 2023-05-12: LLaMA trained on code instruction following.
+* [CodeAlpaca](https://github.com/sahil280114/codealpaca) ⭐ 1,513 | 🐛 17 | 🌐 Python | 📅 2023-05-12: LLaMA trained on code instruction following.
 * [CodeTF](https://github.com/salesforce/CodeTF) ⚠️ Archived: A One-stop Transformer Library for State-of-the-art Code LLM
 * [promptr](https://github.com/ferrislucas/promptr) ⭐ 950 | 🐛 10 | 🌐 JavaScript | 📅 2026-04-24: CLI tool to operating on your codebase using GPT.
 * [org-ai](https://github.com/rksm/org-ai) ⭐ 821 | 🐛 46 | 🌐 Emacs Lisp | 📅 2026-01-07: Emacs org-mode with OpenAI APIs.
@@ -28,7 +28,7 @@ A list of AI coding topics.
 * [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) ⭐ 300 | 🐛 2 | 🌐 Python | 📅 2025-04-17: Accelerate developer productivity and code security with our open-source AI.
 * [ChatIDE](https://github.com/yagil/ChatIDE) ⭐ 220 | 🐛 5 | 🌐 TypeScript | 📅 2024-08-14: Extension let you talk to ChatGPT inside VSCode.
 * [CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara) ⭐ 174 | 🐛 2 | 🌐 Python | 📅 2023-04-26: Open Source LLaMA Model that Follow Instruction-Tuning for Code Generation.
-* [Arctic](https://github.com/arctic-cli/interface) ⭐ 153 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-23: A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+* [Arctic](https://github.com/arctic-cli/interface) ⭐ 154 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-23: A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 * [PromptMate](https://github.com/MateusZitelli/PromptMate) ⭐ 91 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-09: VSCode extension embed ChatGPT.
 * [batchai](https://github.com/qiangyt/batchai) ⚠️ Archived: A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 * [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler) ⭐ 70 | 🐛 1 | 🌐 JavaScript | 📅 2025-05-06: A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation via OpenRouter.
@@ -50,7 +50,7 @@ A list of AI coding topics.
 
 * [CodeLlama](https://github.com/facebookresearch/codellama) ⚠️ Archived
 * [CodeGeeX 13B](https://github.com/THUDM/CodeGeeX) ⭐ 8,806 | 🐛 189 | 🌐 Python | 📅 2024-08-13
-* [CodeGen 350M/2B/6B/16B](https://github.com/salesforce/CodeGen) ⭐ 5,181 | 🐛 50 | 🌐 Python | 📅 2026-06-02
+* [CodeGen 350M/2B/6B/16B](https://github.com/salesforce/CodeGen) ⭐ 5,183 | 🐛 50 | 🌐 Python | 📅 2026-06-02
 * [CodeT5 / CodeT5+](https://github.com/salesforce/CodeT5) ⚠️ Archived
 * [PolyCoder 160M/400M/2.7B](https://github.com/VHellendoorn/Code-LMs) ⭐ 1,841 | 🐛 14 | 🌐 Python | 📅 2024-07-07
 * [TransCoder](https://github.com/facebookresearch/CodeGen) ⭐ 777 | 🐛 38 | 🌐 Python | 📅 2026-03-12
@@ -87,7 +87,7 @@ A list of AI coding topics.
 
 ## Products & Startups
 
-* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 169 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
+* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 171 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
 * [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
 * [Codeium](https://www.codeium.com/)
 * [CodeComplete.AI](https://codecomplete.ai/)
@@ -120,7 +120,7 @@ A list of AI coding topics.
 
 ## Peer Awesome Lists
 
-* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,949 | 🐛 320 | 📅 2026-08-27
+* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,951 | 🐛 322 | 📅 2026-08-27
 * [Are copilots local yet?](https://github.com/ErikBjare/are-copilots-local-yet) ⭐ 599 | 🐛 5 | 🌐 Python | 📅 2025-01-27
 
 ## Star History
@@ -129,4 +129,4 @@ A list of AI coding topics.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

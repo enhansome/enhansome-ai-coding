@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9491,
+            "stars": 9492,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-27T10:10:51Z",
-            "open_issues": 175,
+            "last_commit": "2026-09-28T14:11:47Z",
+            "open_issues": 193,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9099,
+            "stars": 9104,
             "topics": [
               "agents",
               "ai",
@@ -156,11 +156,11 @@
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T10:36:08Z",
+            "last_commit": "2026-09-28T12:00:54Z",
             "open_issues": 50,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3653,
+            "stars": 3657,
             "topics": [
               "ai-coding-assistant",
               "artificial-intelligence",
@@ -226,7 +226,7 @@
             "open_issues": 17,
             "owner": "sahil280114",
             "repo": "codealpaca",
-            "stars": 1514,
+            "stars": 1513,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -450,7 +450,7 @@
             "open_issues": 0,
             "owner": "arctic-cli",
             "repo": "interface",
-            "stars": 153,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -663,7 +663,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16243,
+            "stars": 16241,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -709,7 +709,7 @@
             "open_issues": 50,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5181,
+            "stars": 5183,
             "topics": [
               "codex",
               "generativemodel",
@@ -737,7 +737,7 @@
             "open_issues": 88,
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3093,
+            "stars": 3092,
             "topics": [
               "code-generation",
               "code-intelligence",
@@ -858,7 +858,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 169,
+            "stars": 171,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 320,
+            "open_issues": 322,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3949,
+            "stars": 3951,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:50:41.355Z",
+    "last_updated": "2026-09-28T22:14:37.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
