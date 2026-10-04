@@ -19,7 +19,7 @@
             "open_issues": 342,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33891,
+            "stars": 33896,
             "topics": [
               "ai",
               "codegen",
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:05:18Z",
-            "open_issues": 227,
+            "last_commit": "2026-10-04T08:36:00Z",
+            "open_issues": 236,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9130,
+            "stars": 9133,
             "topics": [
               "agents",
               "ai",
@@ -737,7 +737,7 @@
             "open_issues": 88,
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3092,
+            "stars": 3093,
             "topics": [
               "code-generation",
               "code-intelligence",
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 341,
+            "open_issues": 342,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3954,
+            "stars": 3956,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:21:23.891Z",
+    "last_updated": "2026-10-04T19:46:28.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
