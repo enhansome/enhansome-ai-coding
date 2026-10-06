@@ -19,7 +19,7 @@
             "open_issues": 341,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33898,
+            "stars": 33901,
             "topics": [
               "ai",
               "codegen",
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9490,
+            "stars": 9488,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -92,7 +92,7 @@
             "open_issues": 221,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9153,
+            "stars": 9188,
             "topics": [
               "agents",
               "ai",
@@ -156,8 +156,8 @@
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T03:06:06Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-06T10:38:35Z",
+            "open_issues": 50,
             "owner": "twinnydotdev",
             "repo": "twinny",
             "stars": 3662,
@@ -200,7 +200,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2374,
+            "stars": 2373,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -280,7 +280,7 @@
             "open_issues": 10,
             "owner": "ferrislucas",
             "repo": "promptr",
-            "stars": 949,
+            "stars": 948,
             "topics": [
               "ai",
               "chatgpt",
@@ -345,7 +345,7 @@
             "open_issues": 14,
             "owner": "bigcode-project",
             "repo": "octopack",
-            "stars": 479,
+            "stars": 480,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -395,7 +395,7 @@
             "open_issues": 5,
             "owner": "yagil",
             "repo": "ChatIDE",
-            "stars": 220,
+            "stars": 219,
             "topics": [
               "ai",
               "anthropic",
@@ -663,7 +663,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16235,
+            "stars": 16234,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -709,7 +709,7 @@
             "open_issues": 50,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5181,
+            "stars": 5182,
             "topics": [
               "codex",
               "generativemodel",
@@ -737,7 +737,7 @@
             "open_issues": 88,
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3093,
+            "stars": 3092,
             "topics": [
               "code-generation",
               "code-intelligence",
@@ -789,7 +789,7 @@
             "open_issues": 38,
             "owner": "facebookresearch",
             "repo": "CodeGen",
-            "stars": 776,
+            "stars": 775,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 350,
+            "open_issues": 351,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3959,
+            "stars": 3958,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -921,7 +921,7 @@
             "open_issues": 5,
             "owner": "ErikBjare",
             "repo": "are-copilots-local-yet",
-            "stars": 599,
+            "stars": 598,
             "topics": [
               "copilot",
               "github-copilot",
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:18:16.814Z",
+    "last_updated": "2026-10-06T21:10:10.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -951,7 +951,7 @@
       "open_issues": 56,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
-      "stars": 765,
+      "stars": 764,
       "topics": [
         "ai",
         "awesome",
