@@ -16,7 +16,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
-            "open_issues": 341,
+            "open_issues": 335,
             "owner": "TabbyML",
             "repo": "tabby",
             "stars": 33906,
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14677,
+            "stars": 14678,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T21:01:34Z",
-            "open_issues": 210,
+            "last_commit": "2026-10-08T17:34:42Z",
+            "open_issues": 84,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9195,
+            "stars": 9205,
             "topics": [
               "agents",
               "ai",
@@ -156,11 +156,11 @@
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T13:29:57Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-08T07:57:28Z",
+            "open_issues": 53,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3662,
+            "stars": 3664,
             "topics": [
               "ai-coding-assistant",
               "artificial-intelligence",
@@ -515,7 +515,7 @@
             "license": null,
             "last_commit": "2025-05-06T21:53:49Z",
             "open_issues": 1,
-            "owner": "Strawberry-Computer",
+            "owner": "Berrry-Computer",
             "repo": "vibe-compiler",
             "stars": 70,
             "topics": [
@@ -663,7 +663,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16234,
+            "stars": 16231,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -706,10 +706,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-06-02T18:14:11Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5182,
+            "stars": 5183,
             "topics": [
               "codex",
               "generativemodel",
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 354,
+            "open_issues": 358,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3959,
+            "stars": 3960,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:30:15.978Z",
+    "last_updated": "2026-10-08T21:27:18.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -948,7 +948,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-02T02:12:50Z",
-      "open_issues": 57,
+      "open_issues": 58,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
       "stars": 764,
