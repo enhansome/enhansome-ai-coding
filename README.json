@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14677,
+            "stars": 14678,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9486,
+            "stars": 9484,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T16:27:19Z",
-            "open_issues": 87,
+            "last_commit": "2026-10-10T18:20:22Z",
+            "open_issues": 91,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9214,
+            "stars": 9220,
             "topics": [
               "agents",
               "ai",
@@ -897,7 +897,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 361,
+            "open_issues": 366,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
             "stars": 3958,
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:09:43.128Z",
+    "last_updated": "2026-10-10T20:16:59.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
