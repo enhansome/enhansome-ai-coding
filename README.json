@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
-            "open_issues": 334,
+            "open_issues": 337,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33907,
+            "stars": 33910,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14677,
+            "stars": 14678,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9483,
+            "stars": 9482,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T10:07:46Z",
-            "open_issues": 97,
+            "last_commit": "2026-10-12T20:59:49Z",
+            "open_issues": 99,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9223,
+            "stars": 9231,
             "topics": [
               "agents",
               "ai",
@@ -156,11 +156,11 @@
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T07:57:28Z",
+            "last_commit": "2026-10-12T03:10:29Z",
             "open_issues": 52,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3665,
+            "stars": 3666,
             "topics": [
               "ai-coding-assistant",
               "artificial-intelligence",
@@ -200,7 +200,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2372,
+            "stars": 2371,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -317,7 +317,7 @@
             "open_issues": 46,
             "owner": "rksm",
             "repo": "org-ai",
-            "stars": 821,
+            "stars": 822,
             "topics": [
               "ai",
               "chatgpt",
@@ -366,7 +366,7 @@
             "open_issues": 2,
             "owner": "codeintegrity-ai",
             "repo": "mutahunter",
-            "stars": 301,
+            "stars": 303,
             "topics": [
               "artificial-intelligence",
               "automated-testing",
@@ -611,7 +611,7 @@
             "open_issues": 16,
             "owner": "google-deepmind",
             "repo": "code_contests",
-            "stars": 2202,
+            "stars": 2201,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 368,
+            "open_issues": 376,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3960,
+            "stars": 3962,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -921,7 +921,7 @@
             "open_issues": 5,
             "owner": "ErikBjare",
             "repo": "are-copilots-local-yet",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "copilot",
               "github-copilot",
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:30:42.450Z",
+    "last_updated": "2026-10-12T23:09:34.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -951,7 +951,7 @@
       "open_issues": 58,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
-      "stars": 764,
+      "stars": 765,
       "topics": [
         "ai",
         "awesome",
