@@ -19,7 +19,7 @@
             "open_issues": 343,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33916,
+            "stars": 33915,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14673,
+            "stars": 14672,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9482,
+            "stars": 9480,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T11:01:23Z",
-            "open_issues": 105,
+            "last_commit": "2026-10-17T16:47:25Z",
+            "open_issues": 108,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9243,
+            "stars": 9241,
             "topics": [
               "agents",
               "ai",
@@ -569,7 +569,7 @@
             "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2445,
+            "stars": 2443,
             "topics": [
               "bert",
               "cnn",
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 398,
+            "open_issues": 402,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3959,
+            "stars": 3960,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:39:38.791Z",
+    "last_updated": "2026-10-17T18:44:43.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
