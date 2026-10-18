@@ -19,7 +19,7 @@
             "open_issues": 343,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33915,
+            "stars": 33914,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14672,
+            "stars": 14673,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T16:47:25Z",
-            "open_issues": 108,
+            "last_commit": "2026-10-18T16:22:15Z",
+            "open_issues": 118,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9241,
+            "stars": 9259,
             "topics": [
               "agents",
               "ai",
@@ -134,7 +134,7 @@
             "open_issues": 18,
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3767,
+            "stars": 3766,
             "topics": [
               "code-completion",
               "cpp",
@@ -157,10 +157,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T19:20:53Z",
-            "open_issues": 50,
+            "open_issues": 52,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3674,
+            "stars": 3673,
             "topics": [
               "ai-coding-assistant",
               "artificial-intelligence",
@@ -569,7 +569,7 @@
             "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2443,
+            "stars": 2442,
             "topics": [
               "bert",
               "cnn",
@@ -684,7 +684,7 @@
             "open_issues": 189,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8797,
+            "stars": 8798,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 402,
+            "open_issues": 405,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3960,
+            "stars": 3976,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:44:43.562Z",
+    "last_updated": "2026-10-18T18:50:27.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
