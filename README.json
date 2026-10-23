@@ -19,7 +19,7 @@
             "open_issues": 343,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33922,
+            "stars": 33925,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14669,
+            "stars": 14670,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T10:13:16Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-23T11:06:59Z",
+            "open_issues": 155,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9284,
+            "stars": 9286,
             "topics": [
               "agents",
               "ai",
@@ -200,7 +200,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2374,
+            "stars": 2373,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -569,7 +569,7 @@
             "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2441,
+            "stars": 2440,
             "topics": [
               "bert",
               "cnn",
@@ -663,7 +663,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16223,
+            "stars": 16222,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -684,7 +684,7 @@
             "open_issues": 188,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8795,
+            "stars": 8796,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 434,
+            "open_issues": 438,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3983,
+            "stars": 3984,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:15:33.089Z",
+    "last_updated": "2026-10-23T20:02:28.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
