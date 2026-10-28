@@ -19,7 +19,7 @@
             "open_issues": 345,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33924,
+            "stars": 33926,
             "topics": [
               "ai",
               "codegen",
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9482,
+            "stars": 9481,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T20:52:03Z",
-            "open_issues": 143,
+            "last_commit": "2026-10-28T13:34:11Z",
+            "open_issues": 121,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9300,
+            "stars": 9304,
             "topics": [
               "agents",
               "ai",
@@ -160,7 +160,7 @@
             "open_issues": 62,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3682,
+            "stars": 3684,
             "topics": [
               "ai-coding-assistant",
               "artificial-intelligence",
@@ -247,7 +247,7 @@
             "open_issues": 28,
             "owner": "salesforce",
             "repo": "CodeTF",
-            "stars": 1476,
+            "stars": 1475,
             "topics": [
               "ai4code",
               "ai4se",
@@ -569,7 +569,7 @@
             "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2439,
+            "stars": 2440,
             "topics": [
               "bert",
               "cnn",
@@ -611,7 +611,7 @@
             "open_issues": 16,
             "owner": "google-deepmind",
             "repo": "code_contests",
-            "stars": 2202,
+            "stars": 2201,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -684,7 +684,7 @@
             "open_issues": 187,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8794,
+            "stars": 8795,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -789,7 +789,7 @@
             "open_issues": 38,
             "owner": "facebookresearch",
             "repo": "CodeGen",
-            "stars": 775,
+            "stars": 776,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -858,7 +858,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 173,
+            "stars": 174,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -897,10 +897,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 473,
+            "open_issues": 477,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3989,
+            "stars": 3990,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:54:39.986Z",
+    "last_updated": "2026-10-28T21:15:36.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -948,7 +948,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-02T02:12:50Z",
-      "open_issues": 62,
+      "open_issues": 61,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
       "stars": 768,
