@@ -19,7 +19,7 @@
             "open_issues": 345,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33921,
+            "stars": 33920,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14663,
+            "stars": 14661,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T12:00:51Z",
-            "open_issues": 113,
+            "last_commit": "2026-11-02T09:45:41Z",
+            "open_issues": 123,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9312,
+            "stars": 9317,
             "topics": [
               "agents",
               "ai",
@@ -200,7 +200,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2375,
+            "stars": 2374,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -709,7 +709,7 @@
             "open_issues": 50,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5183,
+            "stars": 5182,
             "topics": [
               "codex",
               "generativemodel",
@@ -897,7 +897,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 492,
+            "open_issues": 499,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
             "stars": 3992,
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:45:04.949Z",
+    "last_updated": "2026-11-02T23:39:18.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -948,7 +948,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-02T02:12:50Z",
-      "open_issues": 62,
+      "open_issues": 63,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
       "stars": 768,
