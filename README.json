@@ -19,7 +19,7 @@
             "open_issues": 345,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33920,
+            "stars": 33922,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14654,
+            "stars": 14652,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9478,
+            "stars": 9477,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T20:31:16Z",
-            "open_issues": 100,
+            "last_commit": "2026-11-06T09:30:15Z",
+            "open_issues": 114,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9323,
+            "stars": 9322,
             "topics": [
               "agents",
               "ai",
@@ -159,7 +159,7 @@
             "open_issues": 59,
             "owner": "twinnydotdev",
             "repo": "twinny",
-            "stars": 3691,
+            "stars": 3692,
             "topics": [
               "ai-coding-assistant",
               "artificial-intelligence",
@@ -199,7 +199,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2372,
+            "stars": 2373,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -662,7 +662,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16212,
+            "stars": 16210,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -683,7 +683,7 @@
             "open_issues": 187,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8793,
+            "stars": 8794,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -708,7 +708,7 @@
             "open_issues": 50,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5181,
+            "stars": 5180,
             "topics": [
               "codex",
               "generativemodel",
@@ -736,7 +736,7 @@
             "open_issues": 88,
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3086,
+            "stars": 3085,
             "topics": [
               "code-generation",
               "code-intelligence",
@@ -809,7 +809,7 @@
             "open_issues": 4,
             "owner": "dpfried",
             "repo": "incoder",
-            "stars": 314,
+            "stars": 313,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -896,10 +896,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 512,
+            "open_issues": 515,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3994,
+            "stars": 3996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -917,7 +917,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-01-27T14:40:47Z",
-            "open_issues": 5,
+            "open_issues": 8,
             "owner": "ErikBjare",
             "repo": "are-copilots-local-yet",
             "stars": 600,
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:12:30.755Z",
+    "last_updated": "2026-11-06T21:43:24.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
