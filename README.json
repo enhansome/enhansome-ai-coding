@@ -19,7 +19,7 @@
             "open_issues": 345,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33922,
+            "stars": 33925,
             "topics": [
               "ai",
               "codegen",
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9478,
+            "stars": 9479,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T18:33:27Z",
-            "open_issues": 128,
+            "last_commit": "2026-11-08T10:25:02Z",
+            "open_issues": 137,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9325,
+            "stars": 9327,
             "topics": [
               "agents",
               "ai",
@@ -683,7 +683,7 @@
             "open_issues": 187,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8795,
+            "stars": 8794,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -763,7 +763,7 @@
             "open_issues": 14,
             "owner": "VHellendoorn",
             "repo": "Code-LMs",
-            "stars": 1841,
+            "stars": 1842,
             "topics": [
               "deep-learning",
               "gpt-2",
@@ -896,10 +896,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 520,
+            "open_issues": 523,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3996,
+            "stars": 3997,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -920,7 +920,7 @@
             "open_issues": 8,
             "owner": "ErikBjare",
             "repo": "are-copilots-local-yet",
-            "stars": 600,
+            "stars": 599,
             "topics": [
               "copilot",
               "github-copilot",
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:26:06.096Z",
+    "last_updated": "2026-11-08T20:43:13.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -947,7 +947,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-02T02:12:50Z",
-      "open_issues": 65,
+      "open_issues": 66,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
       "stars": 769,
