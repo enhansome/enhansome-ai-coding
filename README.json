@@ -19,7 +19,7 @@
             "open_issues": 345,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33931,
+            "stars": 33933,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14649,
+            "stars": 14650,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9476,
+            "stars": 9477,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T10:33:08Z",
-            "open_issues": 144,
+            "last_commit": "2026-11-10T10:09:38Z",
+            "open_issues": 159,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9331,
+            "stars": 9334,
             "topics": [
               "agents",
               "ai",
@@ -155,7 +155,7 @@
             "id": 681211986,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T12:58:31Z",
+            "last_commit": "2026-11-10T15:07:24Z",
             "open_issues": 60,
             "owner": "twinnydotdev",
             "repo": "twinny",
@@ -225,7 +225,7 @@
             "open_issues": 17,
             "owner": "sahil280114",
             "repo": "codealpaca",
-            "stars": 1516,
+            "stars": 1515,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -279,7 +279,7 @@
             "open_issues": 10,
             "owner": "ferrislucas",
             "repo": "promptr",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "ai",
               "chatgpt",
@@ -365,7 +365,7 @@
             "open_issues": 2,
             "owner": "codeintegrity-ai",
             "repo": "mutahunter",
-            "stars": 303,
+            "stars": 305,
             "topics": [
               "artificial-intelligence",
               "automated-testing",
@@ -896,10 +896,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 530,
+            "open_issues": 537,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3998,
+            "stars": 3999,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:22:27.530Z",
+    "last_updated": "2026-11-10T21:54:47.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
