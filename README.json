@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
-            "open_issues": 353,
+            "open_issues": 351,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33933,
+            "stars": 33930,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14651,
+            "stars": 14649,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9473,
+            "stars": 9471,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T19:40:26Z",
-            "open_issues": 102,
+            "last_commit": "2026-11-19T17:56:47Z",
+            "open_issues": 106,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9342,
+            "stars": 9344,
             "topics": [
               "agents",
               "ai",
@@ -133,7 +133,7 @@
             "open_issues": 18,
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3760,
+            "stars": 3759,
             "topics": [
               "code-completion",
               "cpp",
@@ -156,7 +156,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-18T12:59:40Z",
-            "open_issues": 61,
+            "open_issues": 64,
             "owner": "twinnydotdev",
             "repo": "twinny",
             "stars": 3702,
@@ -199,7 +199,7 @@
             "open_issues": 24,
             "owner": "context-labs",
             "repo": "autodoc",
-            "stars": 2375,
+            "stars": 2374,
             "topics": [
               "cli-tool",
               "documentation-generator",
@@ -225,7 +225,7 @@
             "open_issues": 17,
             "owner": "sahil280114",
             "repo": "codealpaca",
-            "stars": 1516,
+            "stars": 1515,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -246,7 +246,7 @@
             "open_issues": 28,
             "owner": "salesforce",
             "repo": "CodeTF",
-            "stars": 1476,
+            "stars": 1474,
             "topics": [
               "ai4code",
               "ai4se",
@@ -279,7 +279,7 @@
             "open_issues": 10,
             "owner": "ferrislucas",
             "repo": "promptr",
-            "stars": 953,
+            "stars": 952,
             "topics": [
               "ai",
               "chatgpt",
@@ -344,7 +344,7 @@
             "open_issues": 14,
             "owner": "bigcode-project",
             "repo": "octopack",
-            "stars": 482,
+            "stars": 481,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -568,7 +568,7 @@
             "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2442,
+            "stars": 2441,
             "topics": [
               "bert",
               "cnn",
@@ -610,7 +610,7 @@
             "open_issues": 16,
             "owner": "google-deepmind",
             "repo": "code_contests",
-            "stars": 2204,
+            "stars": 2202,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -662,7 +662,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16208,
+            "stars": 16207,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -680,10 +680,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-08-13T05:59:38Z",
-            "open_issues": 187,
+            "open_issues": 186,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8795,
+            "stars": 8797,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -705,10 +705,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-06-02T18:14:11Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "salesforce",
             "repo": "CodeGen",
-            "stars": 5183,
+            "stars": 5181,
             "topics": [
               "codex",
               "generativemodel",
@@ -733,10 +733,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-25T16:27:18Z",
-            "open_issues": 88,
+            "open_issues": 87,
             "owner": "salesforce",
             "repo": "CodeT5",
-            "stars": 3083,
+            "stars": 3082,
             "topics": [
               "code-generation",
               "code-intelligence",
@@ -763,7 +763,7 @@
             "open_issues": 14,
             "owner": "VHellendoorn",
             "repo": "Code-LMs",
-            "stars": 1843,
+            "stars": 1842,
             "topics": [
               "deep-learning",
               "gpt-2",
@@ -788,7 +788,7 @@
             "open_issues": 38,
             "owner": "facebookresearch",
             "repo": "CodeGen",
-            "stars": 779,
+            "stars": 778,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -809,7 +809,7 @@
             "open_issues": 4,
             "owner": "dpfried",
             "repo": "incoder",
-            "stars": 314,
+            "stars": 313,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -896,10 +896,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 564,
+            "open_issues": 566,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 4000,
+            "stars": 3999,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -920,7 +920,7 @@
             "open_issues": 8,
             "owner": "ErikBjare",
             "repo": "are-copilots-local-yet",
-            "stars": 599,
+            "stars": 598,
             "topics": [
               "copilot",
               "github-copilot",
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:02:07.361Z",
+    "last_updated": "2026-11-19T23:11:03.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
@@ -950,7 +950,7 @@
       "open_issues": 66,
       "owner": "wsxiaoys",
       "repo": "awesome-ai-coding",
-      "stars": 770,
+      "stars": 769,
       "topics": [
         "ai",
         "awesome",
