@@ -19,7 +19,7 @@
             "open_issues": 350,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33925,
+            "stars": 33939,
             "topics": [
               "ai",
               "codegen",
@@ -50,7 +50,7 @@
             "open_issues": 63,
             "owner": "fauxpilot",
             "repo": "fauxpilot",
-            "stars": 14646,
+            "stars": 14645,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -88,11 +88,11 @@
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-24T14:14:45Z",
-            "open_issues": 125,
+            "last_commit": "2026-11-25T23:06:38Z",
+            "open_issues": 128,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 9382,
+            "stars": 9384,
             "topics": [
               "agents",
               "ai",
@@ -133,7 +133,7 @@
             "open_issues": 18,
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3759,
+            "stars": 3760,
             "topics": [
               "code-completion",
               "cpp",
@@ -568,7 +568,7 @@
             "open_issues": 14,
             "owner": "github",
             "repo": "CodeSearchNet",
-            "stars": 2441,
+            "stars": 2443,
             "topics": [
               "bert",
               "cnn",
@@ -662,7 +662,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16197,
+            "stars": 16196,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -683,7 +683,7 @@
             "open_issues": 187,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8806,
+            "stars": 8808,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -857,7 +857,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 182,
+            "stars": 184,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -896,10 +896,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T15:25:27Z",
-            "open_issues": 586,
+            "open_issues": 592,
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 4000,
+            "stars": 4001,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:00.020Z"
@@ -917,10 +917,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-01-27T14:40:47Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "ErikBjare",
             "repo": "are-copilots-local-yet",
-            "stars": 598,
+            "stars": 597,
             "topics": [
               "copilot",
               "github-copilot",
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:59:42.538Z",
+    "last_updated": "2026-11-26T00:36:44.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AI Coding",
