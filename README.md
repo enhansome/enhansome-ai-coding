@@ -1,6 +1,6 @@
 # Awesome-AI-Coding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,834 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,436 | 🐛 103 | 📅 2026-09-02
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/wsxiaoys/awesome-ai-coding)
 
 A list of AI coding topics.
@@ -9,13 +9,13 @@ A list of AI coding topics.
 
 ## Projects
 
-* [🐾 Tabby](https://github.com/TabbyML/tabby) ⭐ 33,939 | 🐛 350 | 🌐 Rust | 📅 2026-06-30: An opensource / on-prem alternative to GitHub Copilot.
+* [🐾 Tabby](https://github.com/TabbyML/tabby) ⭐ 33,949 | 🐛 350 | 🌐 Rust | 📅 2026-06-30: An opensource / on-prem alternative to GitHub Copilot.
 * [Fauxpilot](https://github.com/fauxpilot/fauxpilot) ⭐ 14,645 | 🐛 63 | 🌐 Python | 📅 2024-04-09: Code completion server with *CodeGen*.
 * <s>[Bloop](https://github.com/BloopAI/bloop) ⚠️ Archived: bloop is a (AI-powered) fast code search engine written in Rust.</s>
   * Pivot to AI powered legacy code migration: <https://bloop.ai/>
-* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 9,384 | 🐛 128 | 🌐 Python | 📅 2026-11-25: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
+* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 9,386 | 🐛 142 | 🌐 Python | 📅 2026-11-25: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows for code generation, and built-in memory.
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) ⚠️ Archived: CPU based copilot clone
-* [Twinny](https://github.com/rjmacarthy/twinny) ⭐ 3,707 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-24: ollama based AI code completion plugin
+* [Twinny](https://github.com/rjmacarthy/twinny) ⭐ 3,708 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-24: ollama based AI code completion plugin
 * [Autodoc](https://github.com/context-labs/autodoc) ⭐ 2,373 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12: Generate codebase documentation use LLM (OpenAI / Alpaca)
 * [CodeAlpaca](https://github.com/sahil280114/codealpaca) ⭐ 1,516 | 🐛 17 | 🌐 Python | 📅 2023-05-12: LLaMA trained on code instruction following.
 * [CodeTF](https://github.com/salesforce/CodeTF) ⚠️ Archived: A One-stop Transformer Library for State-of-the-art Code LLM
@@ -26,7 +26,7 @@ A list of AI coding topics.
     ](https://arxiv.org/abs/2308.07124)
   * Instruct fine-tuning Code LLMs on large scale github commit dataset.
 * [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) ⭐ 305 | 🐛 2 | 🌐 Python | 📅 2026-10-20: Accelerate developer productivity and code security with our open-source AI.
-* [ChatIDE](https://github.com/yagil/ChatIDE) ⭐ 219 | 🐛 5 | 🌐 TypeScript | 📅 2024-08-14: Extension let you talk to ChatGPT inside VSCode.
+* [ChatIDE](https://github.com/yagil/ChatIDE) ⭐ 220 | 🐛 5 | 🌐 TypeScript | 📅 2024-08-14: Extension let you talk to ChatGPT inside VSCode.
 * [CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara) ⭐ 174 | 🐛 2 | 🌐 Python | 📅 2023-04-26: Open Source LLaMA Model that Follow Instruction-Tuning for Code Generation.
 * [Arctic](https://github.com/arctic-cli/interface) ⭐ 154 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-23: A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 * [PromptMate](https://github.com/MateusZitelli/PromptMate) ⭐ 91 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-09: VSCode extension embed ChatGPT.
@@ -87,7 +87,7 @@ A list of AI coding topics.
 
 ## Products & Startups
 
-* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 184 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
+* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 183 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
 * [Copilot](https://github.com/features/copilot) + [Copilot X](https://github.com/features/preview/copilot-x)
 * [Codeium](https://www.codeium.com/)
 * [CodeComplete.AI](https://codecomplete.ai/)
@@ -120,7 +120,7 @@ A list of AI coding topics.
 
 ## Peer Awesome Lists
 
-* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 4,001 | 🐛 592 | 📅 2026-08-27
+* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 4,002 | 🐛 596 | 📅 2026-08-27
 * [Are copilots local yet?](https://github.com/ErikBjare/are-copilots-local-yet) ⭐ 597 | 🐛 9 | 🌐 Python | 📅 2025-01-27
 
 ## Star History
@@ -129,4 +129,4 @@ A list of AI coding topics.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
